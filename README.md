@@ -11,6 +11,6 @@ I'm a second year BSc CS Student and developer with a passion for coding, photog
 
 Check out my respositories!
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repositories-purple)](https://github.com/your-username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repositories-purple)](https://github.com/BassmaSali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bassmasalimane)
 
 
