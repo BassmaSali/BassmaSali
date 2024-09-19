@@ -2,7 +2,7 @@
 
 I'm a second year BSc CS Student and developer with a passion for coding, photography, and continuous learning. I enjoy exploring new technologies, whether it's building websites, creating games, or experimenting with Arduino projects. 
 
-## ☕️ Get To Know Me
+## 🍵 Get To Know Me
 - 💻 **Software Development:** I love working on a mix of web development, game design, and hardware-based projects.
 - 📸 **Photography Enthusiast:** Capturing unique perspectives through street photography is one of my creative outlets.
 - 🥋 **Martial Arts:** Training in karate has taught me focus, discipline, and resilience—skills I apply to my coding and problem-solving.
