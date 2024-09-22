@@ -9,8 +9,10 @@ I'm a second year BSc CS Student and developer with a passion for coding, photog
 - 🌌 **Astronomy Enthusiast:** My interest in space fuels a constant curiosity about the latest discoveries in science and technology.
 - 👩‍💻 **Programming Languages:** Java, JavaScript, TypeScript, HTML, CSS, Python. (Currently Learning: C++)
 
-Check out my respositories!
+Check out my respositories or connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repositories-purple)](https://github.com/BassmaSali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bassmasalimane)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-purple?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/BassmaSali)](https://github.com/BassmaSali) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassmasalimane/)](https://www.linkedin.com/in/bassmasalimane)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@bsalimane@gmail.com)](mail@bsalimane@gmail.com)
 
 
