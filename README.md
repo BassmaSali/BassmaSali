@@ -11,8 +11,8 @@ I'm a second year BSc CS Student and developer with a passion for coding, photog
 
 Check out my respositories or connect!
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-purple?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/BassmaSali)](https://github.com/BassmaSali) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassmasalimane/)](https://www.linkedin.com/in/bassmasalimane)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@bsalimane@gmail.com)](mail@bsalimane@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-purple?style=flat-rounded&logo=GitHub&logoColor=white&link=https://github.com/BassmaSali)](https://github.com/BassmaSali) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassmasalimane/)](https://www.linkedin.com/in/bassmasalimane)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-rounded&logo=Gmail&logoColor=white&link=mail@bsalimane@gmail.com)](mail@bsalimane@gmail.com)
 
 
