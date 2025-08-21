@@ -14,5 +14,6 @@ Check out my respositories or connect!
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-purple?style=flat-rounded&logo=GitHub&logoColor=white&link=https://github.com/BassmaSali)](https://github.com/BassmaSali) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassmasalimane/)](https://www.linkedin.com/in/bassmasalimane)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-rounded&logo=Gmail&logoColor=white&link=mail@bsalimane@gmail.com)](mail@bsalimane@gmail.com)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-orange?style=flat-rounded&logo=Leetcode&logoColor=white&link=https://leetcode.com/u/BassmaSali/)](https://leetcode.com/u/BassmaSali/)
 
 
